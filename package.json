@@ -8,6 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "eruda": "^2.10.0",
     "jquery": "^3.6.3",
     "screenfull": "^6.0.2",
     "vue": "^3.2.45"
